@@ -2,8 +2,11 @@ Implementazione di una Convolutional Neural Network (CNN) con TensorFlow e CUDA
 
 
 Autore
+
 Giuseppe Dimonte
+
 MAT 367431
+
 giuseppe.dimonte@studenti.unipr.it
 
 Descrizione del Progetto
