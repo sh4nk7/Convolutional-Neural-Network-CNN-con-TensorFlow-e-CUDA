@@ -1,4 +1,6 @@
 Implementazione di una Convolutional Neural Network (CNN) con TensorFlow e CUDA
+
+
 Autore
 Giuseppe Dimonte
 MAT 367431
